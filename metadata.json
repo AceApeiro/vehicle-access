@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle & Access Scanner",
+  "description": "Scans vehicle license plates to track apartment complex entrants, and provides a dashboard for employee data.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
